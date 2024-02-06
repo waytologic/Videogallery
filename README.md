@@ -2,8 +2,8 @@
 
 > Pure css and Javascript to play video from playlist
 
-> Preview
-![Alt text](https://cdn.path.to/some/image.jpg "This is some image...")
+> Preview  
+![PREVIEW](https://github.com/waytologic/Videogallery/blob/main/preview.png?raw=true "This is preview..")
 > 
 
 ```javascript HTML code
