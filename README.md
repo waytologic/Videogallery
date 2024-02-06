@@ -2,12 +2,8 @@
 
 > Pure css and Javascript to play video from playlist
 
-.markdown-body {
-  --md-code-background: #e3dcef;
-  --md-code-text: #4a2b7b;
-  --md-code-tabs: #c6b8dd;
-  --md-code-radius: 4px;
-}
+> Preview
+![Alt text](https://cdn.path.to/some/image.jpg "This is some image...")
 
 ```javascript HTML code
 <!DOCTYPE html>
