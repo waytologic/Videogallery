@@ -4,6 +4,7 @@
 
 > Preview
 ![Alt text](https://cdn.path.to/some/image.jpg "This is some image...")
+> 
 
 ```javascript HTML code
 <!DOCTYPE html>
